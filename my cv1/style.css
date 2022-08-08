@@ -1,0 +1,41 @@
+body{
+margin: 0;
+padding: 0px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-color:slategrey;
+}
+h2{
+color: rgb(6, 6, 73);
+margin-left: 3%;
+background-color: darkslategrey;
+}
+h1{
+    color: rgb(44, 37, 18);
+text-align: center;
+
+}
+p{
+font-size: 22px;
+margin-left: 3%;
+}
+
+.photo{
+    width: 50%;
+    margin-left: 41%;
+    
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: solid 4px darkslategray;
+}
+.about{
+    display: inline-block;
+
+}
+.right-block{
+    float: right;
+    margin-top: -8px;
+     
+}
